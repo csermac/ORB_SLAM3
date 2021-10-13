@@ -1,8 +1,8 @@
 <package>
 
-  <name>orb_slam2</name>
+  <name>orb_slam3</name>
   <version>0.0.1</version>
-  <description>ORB_SLAM2</description>
+  <description>ORB_SLAM3</description>
   <author>Raul Mur-Artal</author>
   <maintainer email="raulmur@unizar.es">Raul Mur-Artal</maintainer>
   <license>GPLv3</license>
