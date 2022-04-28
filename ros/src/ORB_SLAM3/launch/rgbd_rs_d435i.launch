@@ -17,6 +17,6 @@
   </node>
 
   <!-- start up realsense d435i -->
-  <!-- <include file="$(find realsense2_camera)/launch/rs_rgbd.launch" /> -->
+  <include file="$(find realsense2_camera)/launch/rs_rgbd.launch" />
 
 </launch>
